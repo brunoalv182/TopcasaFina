@@ -26,3 +26,8 @@
 
 
 }
+
+.carousel .carousel-inner .item img{
+	max-height: 360px;
+
+}
